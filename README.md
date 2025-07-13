@@ -1,4 +1,4 @@
-# MyNotes
+# My Notes
 
 A Flutter app for creating, editing, and deleting notes with text and images.
 
